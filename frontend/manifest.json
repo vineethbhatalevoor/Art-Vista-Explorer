@@ -1,0 +1,10 @@
+{
+  "name": "Art Museum AI",
+  "short_name": "ArtMuseumAI",
+  "description": "AI-powered art recognition application",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": []
+}
