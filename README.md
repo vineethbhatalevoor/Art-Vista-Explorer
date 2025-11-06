@@ -4,7 +4,7 @@ ArtVista Explorer addresses the RealMeta challenge: "How might we enable museum 
 # Context
 Museums and galleries have vast collections of culturally significant works, yet physical labels offer limited, static information. Audio guides and AR/VR apps exist, but often require registration or extra hardware, adding friction. Visitors desire immediate insights—simply point a phone, scan, and learn—without onboarding hassles. At the same time, institutions seek engagement data but often don’t require full user accounts due to privacy considerations. This creates a gap for seamless, no-login digital interactions that still support anonymized analytics.
 
-![Front Page Screenshot](./dashboard.jpg)
+![Front Page Screenshot](./mainpage.jpg)
 
 # Solution
 ArtVista Explorer is a Progressive Web App that bridges this gap:
