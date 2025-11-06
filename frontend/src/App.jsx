@@ -173,7 +173,7 @@ export default function App() {
       if (isOnline && key) {
         const prompt = `Give a museum-style introduction to "${artTitle}" including artist, year, style, and significance.`;
         const res = await fetch(
-          `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent?key=AIzaSyAY4ezmK3sfepv4XUJ9cLcCdF61qH9AWrA`,
+          `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent?key=your key`,
           {
             method: "POST",
             headers: { "Content-Type": "application/json" },
